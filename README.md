@@ -16,8 +16,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
